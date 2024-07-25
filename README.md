@@ -1,5 +1,5 @@
 # cubifySvalbard
-A little side project to my thesis using the arcpy module - gridding ICESat-2 elevation changes over glaciers in Svalbard. Thesis project is in the repository SvalbardSurges. **Necessary to have an active ArcGIS licence :( and arcpy installed. **
+A little side project to my thesis using the arcpy module - gridding ICESat-2 elevation changes over glaciers in Svalbard. Thesis project is in the repository SvalbardSurges. **Necessary to have an active ArcGIS licence :(** and arcpy installed.
 
 ![cubify austfonna](https://github.com/user-attachments/assets/4f03947a-ed75-45a8-bc9a-a4df26606e36)
 
